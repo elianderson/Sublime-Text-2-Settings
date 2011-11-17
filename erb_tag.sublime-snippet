@@ -1,8 +1,8 @@
 <snippet>
-  <content><![CDATA[<%= ${1} %>$0]]></content>
+  <content><![CDATA[<% ${1} %>$0]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>pp</tabTrigger>
+  <tabTrigger>r</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <scope>text.html</scope>
+  <scope>text.erb,text.html.erb, text.html</scope>
   <description>Short tag for putting data to the screen</description>
 </snippet>
