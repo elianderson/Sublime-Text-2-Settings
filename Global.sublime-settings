@@ -17,7 +17,7 @@
 
   // OS X only: When files are opened from finder, or by dragging onto the
   // dock icon, this controls if a new window is created or not.
-  "open_files_in_new_window": false,
+  "open_files_in_new_window": true,
 
   // OS X 10.7 only: Set to true to disable Lion style full screen support.
   // Sublime Text must be restarted for this to take effect.
